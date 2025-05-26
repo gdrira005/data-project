@@ -1,0 +1,4 @@
+    postgres:
+        tag: "17"
+    project:
+        name: data-project

@@ -1,0 +1,119 @@
+cmp_id,resource,type_version,question,Strongly agree,Agree,Disagree,Strongly disagree,positive_response,negative_response,total_responses,satisfaction_rate,satisfaction_rate_display
+1,program,program version 1,Academic Advising,2,0,0,0,2,0,2,100.0,100.0%
+1,program,program version 1,Academic Advisor,0,12,6,0,12,6,18,66.67,66.67%
+1,program,program version 1,Academic and Career Counseling Services,0,0,4,0,0,4,4,0.0,0.0%
+1,program,program version 1,Advertisements,1,0,2,0,1,2,3,33.33,33.33%
+1,program,program version 1,Are available for consultation and advice,1,2,2,0,3,2,5,60.0,60.0%
+1,program,program version 1,Are enthusiastic,2,0,0,0,2,0,2,100.0,100.0%
+1,program,program version 1,Are knowledgeable of the content of the courses they taught,2,0,2,0,2,2,4,50.0,50.0%
+1,program,program version 1,Aspirational leaders,2,2,0,0,4,0,4,100.0,100.0%
+1,program,program version 1,Availability of study sites,1,2,0,0,3,0,3,100.0,100.0%
+1,program,program version 1,Availability of the digital databases,0,2,2,0,2,2,4,50.0,50.0%
+1,program,program version 1,Cared about the progress of their students,2,0,0,0,2,0,2,100.0,100.0%
+1,program,program version 1,Center of Excellence in Writing and Speaking (CEWS),0,0,4,0,0,4,4,0.0,0.0%
+1,program,program version 1,Channels for scholarship and financial support,2,2,0,0,4,0,4,100.0,100.0%
+1,program,program version 1,Channels of payment,2,0,0,0,2,0,2,100.0,100.0%
+1,program,program version 1,Citrine Ambassador Program (EAP),0,4,0,0,4,0,4,100.0,100.0%
+1,program,program version 1,Citrine's Code of Ethical Conduct (Tarbwyyat Citrine),2,2,0,0,4,0,4,100.0,100.0%
+1,program,program version 1,"Classrooms attractiveness and comfortability (including lecture rooms, laboratories etc.)",0,4,0,0,4,0,4,100.0,100.0%
+1,program,program version 1,Comprehensive learning experience,1,0,0,2,1,2,3,33.33,33.33%
+1,program,program version 1,Contributes to technological advancements locally and globally,0,2,0,2,2,2,4,50.0,50.0%
+1,program,program version 1,Current and up-to-date library materials,1,2,0,2,3,2,5,60.0,60.0%
+1,program,program version 1,Encourage me to investigate new ideas,1,2,0,0,3,0,3,100.0,100.0%
+1,program,program version 1,Enhancement Program (ESP) Services,0,2,0,0,2,0,2,100.0,100.0%
+1,program,program version 1,Family Member,1,0,2,0,1,2,3,33.33,33.33%
+1,program,program version 1,"For Extra-curricular activities (swimming pool, gym, running track, student lounge)",1,4,0,0,5,0,5,100.0,100.0%
+1,program,program version 1,For Healthy Food Services,0,2,0,0,2,0,2,100.0,100.0%
+1,program,program version 1,For Religious observances,1,2,2,0,3,2,5,60.0,60.0%
+1,program,program version 1,Gave me helpful feedback on my work,2,2,0,0,4,0,4,100.0,100.0%
+1,program,program version 1,Grade Appeal and Academic and Non-academic Concerns Process,2,2,0,0,4,0,4,100.0,100.0%
+1,program,program version 1,Helped me to develop leadership skills,1,2,0,0,3,0,3,100.0,100.0%
+1,program,program version 1,Impactful knowledge and intellectual contributions,1,4,0,0,5,0,5,100.0,100.0%
+1,program,program version 1,Inspired me to do my best,1,4,0,0,5,0,5,100.0,100.0%
+1,program,program version 1,Library atmosphere for studying,1,0,0,0,1,0,1,100.0,100.0%
+1,program,program version 1,Library copy & print facilities,1,0,0,0,1,0,1,100.0,100.0%
+1,program,program version 1,Library website,0,4,2,0,4,2,6,66.67,66.67%
+1,program,program version 1,Library workshops,0,4,0,2,4,2,6,66.67,66.67%
+1,program,program version 1,Made me aware of the ethical values necessary for my future career,1,2,2,0,3,2,5,60.0,60.0%
+1,program,program version 1,Medical Clinic,1,0,2,0,1,2,3,33.33,33.33%
+1,program,program version 1,My Current Employer,0,2,2,0,2,2,4,50.0,50.0%
+1,program,program version 1,My ability to investigate and solve new problems,1,0,2,2,1,4,5,20.0,20.0%
+1,program,program version 1,My ability to use technology to find information and report results,0,2,0,0,2,0,2,100.0,100.0%
+1,program,program version 1,My ability to work effectively in groups,0,2,2,2,2,4,6,33.33,33.33%
+1,program,program version 1,My interest to want to continue to keep up to date with new developments in my field of study,1,2,0,2,3,2,5,60.0,60.0%
+1,program,program version 1,My rights and responsibilities at Citrine University,2,0,0,0,2,0,2,100.0,100.0%
+1,program,program version 1,My skills in communication,0,4,2,0,4,2,6,66.67,66.67%
+1,program,program version 1,Others,0,8,8,0,8,8,16,50.0,50.0%
+1,program,program version 1,Peer Tutoring Services,0,2,2,0,2,2,4,50.0,50.0%
+1,program,program version 1,Personal Counseling Services,1,0,2,2,1,4,5,20.0,20.0%
+1,program,program version 1,Previous Citrine University Graduate,0,2,0,0,2,0,2,100.0,100.0%
+1,program,program version 1,Printed Brochures and Booklets,0,0,2,0,0,2,2,0.0,0.0%
+1,program,program version 1,Provides quality education centered on encouraging innovative scientific solutions and research,2,0,0,0,2,0,2,100.0,100.0%
+1,program,program version 1,Registration Process,1,4,0,0,5,0,5,100.0,100.0%
+1,program,program version 1,Serves as an agent of change that advances inspired leaders and scholars in fulfilling Queen Citrine Al-Thunayan Al-Saud ‘s legacy (God rest her soul),3,0,0,0,3,0,3,100.0,100.0%
+1,program,program version 1,Social Media,1,0,2,0,1,2,3,33.33,33.33%
+1,program,program version 1,Socio-economic growth of the Kingdom,1,0,2,0,1,2,3,33.33,33.33%
+1,program,program version 1,Solutions to societal and economic challenges,1,2,0,0,3,0,3,100.0,100.0%
+1,program,program version 1,Sports Activities,2,0,0,0,2,0,2,100.0,100.0%
+1,program,program version 1,"Student Life (Events, activities, trips, clubs, etc...)",1,0,2,0,1,2,3,33.33,33.33%
+1,program,program version 1,The Dean of Academic Development and Supportive Studies,0,12,6,0,12,6,18,66.67,66.67%
+1,program,program version 1,The Dean of Admission and Registration,3,6,0,0,9,0,9,100.0,100.0%
+1,program,program version 1,The Dean of Graduate Studies and Research,3,6,0,0,9,0,9,100.0,100.0%
+1,program,program version 1,The Dean of Student Affairs,3,0,0,6,3,6,9,33.33,33.33%
+1,program,program version 1,The Dean of the College,3,0,12,0,3,12,15,20.0,20.0%
+1,program,program version 1,The Department Chair,6,6,0,0,12,0,12,100.0,100.0%
+1,program,program version 1,The Email services,1,0,0,4,1,4,5,20.0,20.0%
+1,program,program version 1,The Learning Management System (Blackboard) services,0,2,2,0,2,2,4,50.0,50.0%
+1,program,program version 1,The President of the University,3,0,6,0,3,6,9,33.33,33.33%
+1,program,program version 1,The Provost,3,0,6,0,3,6,9,33.33,33.33%
+1,program,program version 1,The Student Information System (Banner) services,1,2,2,0,3,2,5,60.0,60.0%
+1,program,program version 1,The accessibility of IT systems off campus,1,2,0,0,3,0,3,100.0,100.0%
+1,program,program version 1,The accessibility of digital resources,1,2,0,0,3,0,3,100.0,100.0%
+1,program,program version 1,The attendance system (fingerprints) services,2,0,2,0,2,2,4,50.0,50.0%
+1,program,program version 1,The functionality of library equipment,1,2,0,0,3,0,3,100.0,100.0%
+1,program,program version 1,The help of library staff,2,0,0,0,2,0,2,100.0,100.0%
+1,program,program version 1,The internet accessibility services on campus,1,2,0,0,3,0,3,100.0,100.0%
+1,program,program version 1,The library working times,1,2,2,0,3,2,5,60.0,60.0%
+1,program,program version 1,The orientation program for new students,1,2,0,0,3,0,3,100.0,100.0%
+1,program,program version 1,University School Visit,0,0,4,0,0,4,4,0.0,0.0%
+1,program,program version 1,University Website,0,0,2,0,0,2,2,0.0,0.0%
+1,program,program version 1,Use up-to-date and useful study materials,1,2,2,0,3,2,5,60.0,60.0%
+1,program,program version 1,Used effective methods of teaching,2,0,0,0,2,0,2,100.0,100.0%
+2,course,course version 1,I would like to take another course with the same instructor,2,2,2,1,4,3,7,57.14,57.14%
+2,course,course version 1,"Overall, I was satisfied with the quality of this course",0,6,1,1,6,2,8,75.0,75.0%
+2,course,course version 1,The assessment tasks and the assessment criteria were made clear to  me,2,1,3,2,3,5,8,37.5,37.5%
+2,course,course version 1,"The class activities, assignments, laboratories helped me in understanding the course",1,3,1,2,4,3,7,57.14,57.14%
+2,course,course version 1,The course generally followed the syllabus,0,5,1,1,5,2,7,71.43,71.43%
+2,course,course version 1,The course materials were made available on Blackboard,2,2,3,0,4,3,7,57.14,57.14%
+2,course,course version 1,The course materials were up to date and useful,2,3,2,1,5,3,8,62.5,62.5%
+2,course,course version 1,The course resources I needed were available when I needed them,1,4,2,1,5,3,8,62.5,62.5%
+2,course,course version 1,The course was intellectually challenging,4,2,1,1,6,2,8,75.0,75.0%
+2,course,course version 1,The effort required for this course was appropriate,3,3,2,0,6,2,8,75.0,75.0%
+2,course,course version 1,The instructor returned assignments/tests timely and with feedback,1,3,2,1,4,3,7,57.14,57.14%
+2,course,course version 1,The instructor stimulated interest in the course subject,1,4,1,1,5,2,7,71.43,71.43%
+2,course,course version 1,The instructor treated students with respect,0,5,1,2,5,3,8,62.5,62.5%
+2,course,course version 1,The instructor was available for help outside of class,1,2,4,1,3,5,8,37.5,37.5%
+2,course,course version 1,The instructor was enthusiastic about the subject,3,2,0,2,5,2,7,71.43,71.43%
+2,course,course version 1,The instructor was prepared,2,4,1,1,6,2,8,75.0,75.0%
+2,course,course version 1,The instructor's explanation was clear,0,3,2,2,3,4,7,42.86,42.86%
+2,course,course version 1,The lab activities were well integrated with the lectures.,0,3,4,0,3,4,7,42.86,42.86%
+2,course,course version 1,The lab sessions were organized and clear instructions were given to me,0,3,4,1,3,5,8,37.5,37.5%
+3,course,course version 2,I would like to take another course with the same instructor,1,0,3,2,1,5,6,16.67,16.67%
+3,course,course version 2,"Overall, I was satisfied with the quality of this course",1,3,0,2,4,2,6,66.67,66.67%
+3,course,course version 2,The assessment tasks and the assessment criteria were made clear to  me,2,0,3,1,2,4,6,33.33,33.33%
+3,course,course version 2,"The class activities, assignments, laboratories helped me in understanding the course",0,5,0,1,5,1,6,83.33,83.33%
+3,course,course version 2,The course generally followed the syllabus,0,4,1,1,4,2,6,66.67,66.67%
+3,course,course version 2,The course materials were made available on Blackboard,0,4,0,1,4,1,5,80.0,80.0%
+3,course,course version 2,The course materials were up to date and useful,0,3,1,1,3,2,5,60.0,60.0%
+3,course,course version 2,The course resources I needed were available when I needed them,3,1,0,2,4,2,6,66.67,66.67%
+3,course,course version 2,The course was intellectually challenging,1,3,0,2,4,2,6,66.67,66.67%
+3,course,course version 2,The effort required for this course was appropriate,0,1,2,2,1,4,5,20.0,20.0%
+3,course,course version 2,The instructor returned assignments/tests timely and with feedback,2,1,2,1,3,3,6,50.0,50.0%
+3,course,course version 2,The instructor stimulated interest in the course subject,2,2,0,1,4,1,5,80.0,80.0%
+3,course,course version 2,The instructor treated students with respect,2,0,1,2,2,3,5,40.0,40.0%
+3,course,course version 2,The instructor was available for help outside of class,0,3,1,2,3,3,6,50.0,50.0%
+3,course,course version 2,The instructor was enthusiastic about the subject,2,1,2,1,3,3,6,50.0,50.0%
+3,course,course version 2,The instructor was prepared,1,3,1,1,4,2,6,66.67,66.67%
+3,course,course version 2,The instructor's explanation was clear,0,4,0,2,4,2,6,66.67,66.67%
+3,course,course version 2,The lab activities were well integrated with the lectures.,1,3,1,1,4,2,6,66.67,66.67%
+3,course,course version 2,The lab sessions were organized and clear instructions were given to me,1,3,1,1,4,2,6,66.67,66.67%
