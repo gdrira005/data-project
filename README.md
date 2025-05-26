@@ -14,3 +14,15 @@ Ce projet a pour objectif de calculer et visualiser des **indicateurs de qualit�
 ```dans le terminal
 git clone https://github.com/ton-pseudo/data-project.git
 cd data-project
+
+Ensuite taper :
+
+docker compose up
+
+Cela démarre :
+
+Apache Airflow sur http://localhost:8080
+
+Superset sur http://localhost:8088
+
+PostgreSQL (service de base de données)
